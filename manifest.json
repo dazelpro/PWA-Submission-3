@@ -1,0 +1,47 @@
+{
+    "name": "League England",
+    "short_name": "L-England",
+    "description": "Aplikasi Bola Liga Inggris",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#311B92",
+    "theme_color": "#311B92",
+    "icons": [
+        {
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "10x10",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "453844431051"
+}
